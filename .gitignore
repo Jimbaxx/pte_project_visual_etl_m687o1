@@ -1,0 +1,13 @@
+node_modules/
+.svelte-kit/
+build/
+dist/
+target/
+src-tauri/target/
+.env
+.env.*
+*.log
+.DS_Store
+# személyes / éles adat soha ne kerüljön a repóba
+data/private/
+*.local.csv
